@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thoughts</title>
+    <link>https://abhynadar.github.io/arcanvas/thought/index.xml</link>
+    <description>Recent content on Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Mar 2017 11:51:32 +0530</lastBuildDate>
+    <atom:link href="https://abhynadar.github.io/arcanvas/thought/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Be persuaded by Lord</title>
+      <link>https://abhynadar.github.io/arcanvas/thought/be-persuaded/</link>
+      <pubDate>Fri, 24 Mar 2017 11:51:32 +0530</pubDate>
+      
+      <guid>https://abhynadar.github.io/arcanvas/thought/be-persuaded/</guid>
+      <description>&lt;p&gt;Get fully persuaded by what &lt;strong&gt;The Lord&lt;/strong&gt; has said.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
