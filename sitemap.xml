@@ -2,24 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://abhynadar.github.io/arcanvas/tech/software-crafter/</loc>
+    <lastmod>2017-03-24T15:10:51+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://abhynadar.github.io/arcanvas/thought/be-persuaded/</loc>
     <lastmod>2017-03-24T11:51:32+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://abhynadar.github.io/arcanvas/quote/tech/brain-is-analog/</loc>
+    <loc>https://abhynadar.github.io/arcanvas/tech/brain-is-analog/</loc>
     <lastmod>2017-03-22T11:40:31+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://abhynadar.github.io/arcanvas/quote/</loc>
-    <lastmod>2017-03-22T11:40:31+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://abhynadar.github.io/arcanvas/</loc>
-    <lastmod>2017-03-24T11:51:32+05:30</lastmod>
+    <lastmod>2017-03-24T15:10:51+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://abhynadar.github.io/arcanvas/tech/</loc>
+    <lastmod>2017-03-24T15:10:51+05:30</lastmod>
     <priority>0</priority>
   </url>
   

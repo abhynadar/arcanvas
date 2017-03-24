@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Thoughts</title>
+    <title>Thoughts on AR Canvas</title>
     <link>https://abhynadar.github.io/arcanvas/thought/index.xml</link>
-    <description>Recent content on Thoughts</description>
+    <description>Recent content in Thoughts on AR Canvas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Mar 2017 11:51:32 +0530</lastBuildDate>
