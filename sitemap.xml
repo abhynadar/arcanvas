@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://abhynadar.github.io/arcanvas/thought/salvation-is-restoration/</loc>
+    <lastmod>2017-03-29T10:12:48+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://abhynadar.github.io/arcanvas/tech/software-crafter/</loc>
     <lastmod>2017-03-24T15:10:51+05:30</lastmod>
   </url>
@@ -18,7 +23,7 @@
   
   <url>
     <loc>https://abhynadar.github.io/arcanvas/</loc>
-    <lastmod>2017-03-24T15:10:51+05:30</lastmod>
+    <lastmod>2017-03-29T10:12:48+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -30,7 +35,7 @@
   
   <url>
     <loc>https://abhynadar.github.io/arcanvas/thought/</loc>
-    <lastmod>2017-03-24T11:51:32+05:30</lastmod>
+    <lastmod>2017-03-29T10:12:48+05:30</lastmod>
     <priority>0</priority>
   </url>
   
