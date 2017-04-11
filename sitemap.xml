@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://abhynadar.github.io/arcanvas/thought/the-word-of-God/</loc>
+    <lastmod>2017-04-11T10:10:44+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abhynadar.github.io/arcanvas/thought/do-you-know-Jesus/</loc>
+    <lastmod>2017-04-11T10:07:12+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://abhynadar.github.io/arcanvas/thought/jesus-the-prince-of-peace/</loc>
     <lastmod>2017-04-10T10:28:13+05:30</lastmod>
   </url>
@@ -48,7 +58,7 @@
   
   <url>
     <loc>https://abhynadar.github.io/arcanvas/</loc>
-    <lastmod>2017-04-10T10:28:13+05:30</lastmod>
+    <lastmod>2017-04-11T10:10:44+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -60,7 +70,7 @@
   
   <url>
     <loc>https://abhynadar.github.io/arcanvas/thought/</loc>
-    <lastmod>2017-04-10T10:28:13+05:30</lastmod>
+    <lastmod>2017-04-11T10:10:44+05:30</lastmod>
     <priority>0</priority>
   </url>
   
